@@ -1,56 +1,14 @@
-All-in-one 𝐆𝐚𝐭𝐞 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧, 𝐅𝐚𝐛𝐫𝐢𝐜𝐚𝐭𝐢𝐨𝐧, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 for Residential or Business Property
-
-Looking to enhance your property’s security with a sleek, custom gate? Our expert team offers comprehensive solutions for homes and businesses, from designing, fabricating and building gates to supplying and installing gate automation systems.
-
-
-
-𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗨𝘀?
-
-🤝 Tailored Gate Installations
-🤝 Cost-Effective Solutions
-🤝 Reliable Service Maintenance & Repairs
-
-𝗢𝘂𝗿 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀:
-
-✅️ Gate Installation & Fabrication
-✅️ Gate Automation & Openers
-✅️ Swing Door Opener, Folding Gate, Sliding Gate
-✅️ Automatic Barriers
-✅️ Stainless Steel, Mild Steel, Aluminium Profile Main Gates
-✅️ High-Speed Doors, Automatic Boom Barriers
-✅️ Swing Gate Motors
-
-𝗢𝘁𝗵𝗲𝗿 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀:
-✅️ Parking Barriers
-✅️ Electric Fences
-✅️ Turnstile Gates & Railings
-
-Experience quality gate installation designed to protect and enhance your property. 
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘂𝘀 𝗡𝗼𝘄!🚪🔒🏠🏢
-
-
-WhatsApp: +63 920 985 4030
-☎ Landline: (02) 8404 0740 
-🌏 Website: http://vastresult.com/
-🌏 Website: https://vastresult.com/gate-automation-system/
-📧 Request a Quote Now: sales@vastresult.com
-📧 Sign Up to Purchase: https://bit.ly/3napnBl
-
-
-#buildingsecurity #GateSecurity #gatefabrication #gateautomation #automaticgate #supplyandinstallation #gateprovider #gatesupplier #gatefabricator
-
-
-𝙒𝙝𝙚𝙣 𝙬𝙚 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙖𝙣𝙙 𝙘𝙝𝙚𝙚𝙧 𝙚𝙖𝙘𝙝 𝙤𝙩𝙝𝙚𝙧 𝙤𝙣, 𝙬𝙤𝙧𝙠 𝙗𝙚𝙘𝙤𝙢𝙚𝙨 𝙖 𝙟𝙤𝙮.
-
-Let’s be mindful and make our workplace a happy place for all!
-
-Contact Vast3 for teambuilding facilitation service. Let’s make your team building experience memorable! 🥳🎉
-
-𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗲 𝗮𝗻 𝗢𝗻𝗹𝗶𝗻𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗡𝗼𝘄!
-𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗮 𝗤𝘂𝗼𝘁𝗮𝘁𝗶𝗼𝗻: http://bit.ly/43pkmYm
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗡𝗼. 0995 479 5171 / 0917 302 9763 / 0966 213 6475 / 0961 644 8032 / 0917 302 9763
-
-FB Page: https://www.facebook.com/vast3trainingteambuilding
-Website: www.vast3teambuilding.com
-
-#teambuildingfacilitators #collaboration #teambuildingexperts #strongertogether #unleashpotential #strongteams #teambuilding #teambuildingorganizer
+<h2>Are you looking for a team-building facilitation service that combines training, coaching, and fun activities?</h2>
+<p>Discover the impact of our facilitation expertise in empowering teams to achieve extraordinary results!</p>
+<p><img src="https://vast3teambuilding.com/wp-content/uploads/2024/07/blog-Why-You-Need-Professional-Team-Building-Facilitators-for-Your-Next-Team-Building-Event.jpg" alt="" /></p>
+<h3>Package Inclusions:</h3>
+<p>PROGRAM, FACILITATORS, COACH/TRAINER, SOUND SYSTEM, MATERIALS</p>
+<h3>Add-Ons:</h3>
+<p>VENUE, FOOD</p>
+<p><strong>Schedule an Online Meeting Now!</strong><br />Request a Quotation: http://bit.ly/43pkmYm<br />Contcat No. 0917 302 9763 / 0966 213 6475 / 0961 644 8032 / 0995 479 5171</p>
+<p><strong>Facebook page</strong>: https://www.facebook.com/vast3trainingteambuilding<br /><strong>Website:</strong> https://vast3teambuilding.com | https://vast3teambuilding.com/team-building</p>
+<p><strong>Venue Partner Location:</strong><br />Bulacan<br />Cavite<br />Antipolo<br />Batangas<br />Makati<br />Pampanga</p>
+<h3>About <br />Since 2015, Vast3 Training Teambuilding has been dedicated to enhancing leadership skills, fostering camaraderie, and promoting integrity within organizations. Our expertise lies in purpose-driven and enjoyable team building activities, training sessions, seminars, coaching sessions, and corporate event facilitation services tailored to meet the unique needs of corporate entities.</h3>
+<p><strong>OUR SERVICES</strong><br />Training Programs<br />Team Building Workshops<br />Sales and Customer Service Training<br />Team Building Activities<br />Outdoor Adventure Challenges<br />Corporate Retreats<br />Personality Development Training<br />Team and People Management Training<br />Communication Skills Training<br />Customer Service Excellance Training<br />Basic Philippine Labor Law Training<br />Leadership Training for Managers And Executives Training<br />Human Resource Management &amp; Leadership Training<br />Employee Relations Training</p>
+<p><strong>OUR TARGET AUDIENCE</strong><br />Corporations<br />Small Businesses<br />Non-Profit Organizations<br />Educational Institutions</p>
+<p><strong>Mondays to Fridays - 9:00am to 6:00pm</strong></p>
