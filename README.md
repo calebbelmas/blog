@@ -1,202 +1,52 @@
----
-datapackage:
-  title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud.
-  created: 2024-01-01
-  updated: 2024-01-31
-  licenses:
-  - path: http://opendatacommons.org/licenses/pddl/
-    title: Open Data Commons Public Domain Dedication and License v1.0
-  sources:
-  - path: http://link.to/data/source
-    title: Link to data source
-  resources:
-  - name: c02-per-decade
-    title: C02 PPM per decade
-    description: C02 PPM per decade
-    lastModified: 2024-01-15
-    path: data.csv
----
+All-in-one 𝐆𝐚𝐭𝐞 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧, 𝐅𝐚𝐛𝐫𝐢𝐜𝐚𝐭𝐢𝐨𝐧, 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 for Residential or Business Property
 
-<div class="hero">
-    <h1 class="hero-title">Readme.md content<br/></h1>
-    <p class="hero-description">Welcome to the body of your site. Everything above this section is part of the Data package front matter. I am adding here markdown text and other data-rich elements and they render beautifully.</p>
-</div>
+Looking to enhance your property’s security with a sleek, custom gate? Our expert team offers comprehensive solutions for homes and businesses, from designing, fabricating and building gates to supplying and installing gate automation systems.
 
 
-## Overview
 
-Here is a quick overview of the template you're looking at:
+𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗨𝘀?
+🤝 Tailored Gate Installations
+🤝 Cost-Effective Solutions
+🤝 Reliable Service Maintenance & Repairs
 
-![[Overview.png]]
+𝗢𝘂𝗿 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀:
+✅️ Gate Installation & Fabrication
+✅️ Gate Automation & Openers
+✅️ Swing Door Opener, Folding Gate, Sliding Gate
+✅️ Automatic Barriers
+✅️ Stainless Steel, Mild Steel, Aluminium Profile Main Gates
+✅️ High-Speed Doors, Automatic Boom Barriers
+✅️ Swing Gate Motors
 
-We have a frontmatter at the top, followed by the "body" of your site, which consists of unstructured data and/or data-rich components.
+𝗢𝘁𝗵𝗲𝗿 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀:
+✅️ Parking Barriers
+✅️ Electric Fences
+✅️ Turnstile Gates & Railings
 
-Feel free to customize the data package frontmatter accordingly when publishing your own data. 
+Experience quality gate installation designed to protect and enhance your property. 
+𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘂𝘀 𝗡𝗼𝘄!🚪🔒🏠🏢
 
-> [!info]
-> Frontmatter refers to the metadata placed at the beginning of the markdown file enclosed within triple dashes (---). This metadata provides essential information about the file and its content, enabling better organization, configuration, and processing by tools and platforms.
+WhatsApp: +63 920 985 4030
+☎ Landline: (02) 8404 0740 
+🌏 Website: http://vastresult.com/
+🌏 Website: https://vastresult.com/gate-automation-system/
+📧 Request a Quote Now: sales@vastresult.com
+📧 Sign Up to Purchase: https://bit.ly/3napnBl
 
-```mermaid
-  graph TD;
-      Data-Package-Frontmatter-->Dataset-title
-      Data-Package-Frontmatter-->Data-package-metadata
-      Data-Package-Frontmatter-->Short-description;
-      Data-Package-Frontmatter-->Data-files-list;
-      Data-Package-Frontmatter-->Data-Previews;
-```
-
-This is the frontmatter in this README.md:
-
-```
----
-datapackage:
-  title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud.
-  created: 2024-01-01
-  updated: 2024-01-31
-  licenses:
-  - path: http://opendatacommons.org/licenses/pddl/
-    title: Open Data Commons Public Domain Dedication and License v1.0
-  sources:
-  - path: http://link.to/data/source
-    title: Link to data source
-  resources:
-  - name: c02-per-decade
-    title: C02 PPM per decade
-    description: C02 PPM per decade
-    lastModified: 2024-01-15
-    path: data.csv
----
-```
-
-You can either update it if you have some data files / datasets that you would want to publish or delete it completely if you have markdown content only (suitable for blogs, data stories, articles, etc.)
-
-## Okay, I published the template. Now what?
-
-You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
-
-> Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/docs/datahub-cloud/Markdown+syntax+support)
-
-Here are some quick examples:
-
-> [!info] This is cool!
-> Here's a callout block.
-> It supports **markdown** and ```[[Internal link|wikilinks]]```.
-
-Or you can quickly embed a piece of code as follows:
-
-```
-const ExampleCode = () => {
-  return <div> .... </div>;
-};
-```
-
-### How to take this template to the next level
-
-This template works best for datasets. If you don't have any data files, we suggest checking out the other templates here https://datahub.io/docs#templates
-
-You can add some visuals (graphs, charts) to make your dataset more impactful or add sidebar navigation in case you have a collection of datasets. Or you could customize your site with CSS and HTML or configure SEO fields, etc. See below:
-
-<div class="middle-button-container">
-    <a href="https://datahub.io/docs/datahub-cloud/Add+sidebar+navigation" class="middle-button">Add sidebar navigation</a>
-</div>
-
-<div class="middle-button-container">
-    <a href="https://datahub.io/docs/datahub-cloud/Add+visuals+and+data-rich+components" class="middle-button">Add visuals and data-rich components</a>
-</div>
+#buildingsecurity #GateSecurity #gatefabrication #gateautomation #automaticgate #supplyandinstallation #gateprovider #gatesupplier #gatefabricator
 
 
-<div class="middle-button-container">
-    <a href="https://datahub.io/docs/datahub-cloud/Customize+Your+DataHub+Cloud+Site+with+CSS" class="middle-button">Customize your site with CSS and HTML</a>
-</div>
+𝙒𝙝𝙚𝙣 𝙬𝙚 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙖𝙣𝙙 𝙘𝙝𝙚𝙚𝙧 𝙚𝙖𝙘𝙝 𝙤𝙩𝙝𝙚𝙧 𝙤𝙣, 𝙬𝙤𝙧𝙠 𝙗𝙚𝙘𝙤𝙢𝙚𝙨 𝙖 𝙟𝙤𝙮.
 
-<div class="middle-button-container">
-    <a href="https://datahub.io/docs/datahub-cloud/Configuring+Nav+bar+and+SEO+fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
-</div>
+Let’s be mindful and make our workplace a happy place for all!
 
----
+Contact Vast3 for teambuilding facilitation service. Let’s make your team building experience memorable! 🥳🎉
 
-> [!important]
-> For any questions, refer to the [Docs](https://datahub.io/docs)
+𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗲 𝗮𝗻 𝗢𝗻𝗹𝗶𝗻𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴 𝗡𝗼𝘄!
+𝗥𝗲𝗾𝘂𝗲𝘀𝘁 𝗮 𝗤𝘂𝗼𝘁𝗮𝘁𝗶𝗼𝗻: http://bit.ly/43pkmYm
+𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗡𝗼. 0995 479 5171 / 0917 302 9763 / 0966 213 6475 / 0961 644 8032 / 0917 302 9763
 
-> [!warning]
-> Just testing some callout blocks here.
+FB Page: https://www.facebook.com/vast3trainingteambuilding
+Website: www.vast3teambuilding.com
 
-> [!done]
-> Test passed.
-
-## Testing data-rich components
-
-I will add a data table from my data.csv file below:
-<FlatUiTable
-  data={{
-    url: 'data.csv'
-  }}
- />
-
- Looks kinda cool. What about a linechart? Let's see what this would look like:
- <LineChart 
-  data={{ url: 'data.csv' }} 
-  title="C02 PPM per decade" 
-  xAxis="year"
-  yAxis="value"
-  color="key"
-/>
-
- <LineChart 
-  data={{ url: 'data.csv' }} 
-  title="C02 PPM per decade" 
-  xAxis="year"
-  yAxis="co2"
-  color="key"
-/>
-
-<LineChart
-  data={{
-    values: [
-      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
-      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
-      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
-      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
-    ]
-  }}
-  title="CO2 PPM per Decade"
-  xAxis="date"
-  color="key"
-/>
-
-<LineChart
-  data={{
-    values: [
-      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
-      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
-      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
-      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
-    ]
-  }}
-  title="CO2 PPM per Decade"
-  xAxis="foo"
-  color="key"
-/>
-
-<LineChart
-  data={{
-    values: [
-      { date: '2019-01-01', foo: 10, bar: 10, key: 30 },
-      { date: '2020-01-02', foo: 30, bar: 20, key: 20 },
-      { date: '2021-01-03', foo: 40, bar: 20, key: 10 },
-      { date: '2022-01-04', foo: 1, bar: 60, key: 20 }
-    ]
-  }}
-  title="CO2 PPM per Decade"
-  xAxis="foo"
-  yAxis="value"
-  color="Values"
-/>
-
-If you want to explore more of what's possible:
-
-<div class="middle-button-container">
-    <a href="https://datahub.io/docs" class="middle-button">Go to the docs</a>
-</div>
+#teambuildingfacilitators #collaboration #teambuildingexperts #strongertogether #unleashpotential #strongteams #teambuilding #teambuildingorganizer
