@@ -1,6 +1,6 @@
 <h2>Are you looking for a team-building facilitation service that combines training, coaching, and fun activities?</h2>
 <p>Discover the impact of our facilitation expertise in empowering teams to achieve extraordinary results!</p>
-<p><img src="[https://vast3teambuilding.com/wp-content/uploads/2024/07/blog-Why-You-Need-Professional-Team-Building-Facilitators-for-Your-Next-Team-Building-Event.jpg](https://aroundmanila-my.sharepoint.com/personal/admin_aroundmanila_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fadmin%5Faroundmanila%5Fcom%2FDocuments%2FTeam%20Building%202024%2FVastResult%2Dfor%2DAd%2DPoster%2DGateAutomation%2Ejpg&parent=%2Fpersonal%2Fadmin%5Faroundmanila%5Fcom%2FDocuments%2FTeam%20Building%202024)" alt="" /></p>
+<p><img src="https://vast3teambuilding.com/wp-content/uploads/2024/07/blog-Why-You-Need-Professional-Team-Building-Facilitators-for-Your-Next-Team-Building-Event.jpg](https://aroundmanila-my.sharepoint.com/personal/admin_aroundmanila_com/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fadmin%5Faroundmanila%5Fcom%2FDocuments%2FTeam%20Building%202024%2FVastResult%2Dfor%2DAd%2DPoster%2DGateAutomation%2Ejpg&parent=%2Fpersonal%2Fadmin%5Faroundmanila%5Fcom%2FDocuments%2FTeam%20Building%202024" alt="" /></p>
 <h3>Package Inclusions:</h3>
 <p>PROGRAM, FACILITATORS, COACH/TRAINER, SOUND SYSTEM, MATERIALS</p>
 <h3>Add-Ons:</h3>
